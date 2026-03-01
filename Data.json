@@ -1,0 +1,30 @@
+{
+  "slides": [
+    {
+      "image": "https://raw.githubusercontent.com/user/repo/main/slide1.jpg",
+      "caption": "Welcome to Dark Cyber Hacker Community"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/user/repo/main/slide2.jpg",
+      "caption": "Explore Advanced Pentesting Tools"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/user/repo/main/slide3.jpg",
+      "caption": "Stay Secure In The Digital World"
+    }
+  ],
+  "tools": [
+    {
+      "name": "DCH-Admin Finder",
+      "desc": "Find hidden admin panels of any website within seconds.",
+      "img": "https://raw.githubusercontent.com/user/repo/main/tool1.png",
+      "link": "https://github.com/your-repo/admin-finder"
+    },
+    {
+      "name": "Payload Generator",
+      "desc": "Custom payload creator for android and windows testing.",
+      "img": "https://raw.githubusercontent.com/user/repo/main/tool2.png",
+      "link": "https://github.com/your-repo/payload-gen"
+    }
+  ]
+}
